@@ -1,5 +1,7 @@
 # Day 3: Mastered Hands-on Linux Commands 🐧💻
 
+<img width="1920" height="1020" alt="Screenshot 2026-06-25 163456" src="https://github.com/user-attachments/assets/ed3e579f-6d3c-4961-a9b5-9bea2de80d79" />
+
 Practiced over 25+ foundational and intermediate Linux management commands from @TrainWithShubham's DevOps roadmap to understand how to control a server from a headless terminal.
 
 ## 🗺️ 1. Navigation & Path Location
