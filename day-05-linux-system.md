@@ -25,3 +25,4 @@ Different Linux flavors (distributions) use distinct package managers to install
 | *Fedora* | dnf | Dandified YUM (the modern replacement for yum). |
 | *Arch Linux* | pacman | Package Manager for Arch, compiling apps seamlessly. |
 | *Gentoo / Chrome OS* | portage | Flexible, source-based package management system. |
+<img width="1898" height="856" alt="Screenshot 2026-06-27 144922" src="https://github.com/user-attachments/assets/70f8d65e-41ca-40f0-9fd9-f4caf566178b" />
