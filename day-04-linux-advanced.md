@@ -1,4 +1,5 @@
 # Day 4: Advanced Linux Systems & Process Monitoring 🐧⚙️
+<img width="1420" height="1022" alt="Screenshot 2026-06-26 104616" src="https://github.com/user-attachments/assets/e3ad22c9-4147-432c-9bfe-847cfbd34172" />
 
 Moved past basic file operations into advanced Linux commands for remote administration, disk health, process management, and system performance monitoring.
 
