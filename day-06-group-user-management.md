@@ -20,3 +20,7 @@ Monitored system identity by directly inspecting Linux flat-file configuration r
 * cat /etc/passwd — Audits user accounts, showing UIDs, GIDs, home paths, and default system shells.
 * cat /etc/group — Audits group structures, showing group IDs (GIDs) and the list of assigned users.
 ---
+<img width="1124" height="784" alt="Screenshot 2026-06-28 123852" src="https://github.com/user-attachments/assets/aec6a4c2-c3c7-4976-94fc-3885887e7c6f" />
+<img width="948" height="1003" alt="Screenshot 2026-06-28 123140(1)" src="https://github.com/user-attachments/assets/390190ea-03f3-463c-a35c-efd1ddeed399" />
+<img width="742" height="966" alt="Screenshot 2026-06-28 123511(1)" src="https://github.com/user-attachments/assets/3e72e54f-4234-4cfc-b6a3-02b38e875327" />
+
