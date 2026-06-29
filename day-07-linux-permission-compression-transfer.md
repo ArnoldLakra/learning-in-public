@@ -21,5 +21,3 @@ Moving data securely across server infrastructures over the network layer.
 * scp — (Secure Copy Protocol) Copies files securely between a local host and a remote host using SSH encryption.
 * rsync — A highly efficient remote file synchronization utility that minimizes bandwidth usage by only transferring differences between source and destination files.
 ---
-![](<Screenshot 2026-06-29 154418(1)(1).png>)
-![alt text](<Screenshot 2026-06-29 154428(1).png>)
