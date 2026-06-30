@@ -32,4 +32,4 @@ Day 4 focused heavily on network utilities, routing paths, packet analysis, and 
 ---
 ![alt text](<Screenshot 2026-06-30 154339.png>)
 ![alt text](<Screenshot 2026-06-30 154623.png>)
-![alt text](<Screenshot 2026-06-30 154732.png>)
+![alt text](<Scree
