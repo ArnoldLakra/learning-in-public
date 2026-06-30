@@ -30,3 +30,6 @@ Day 4 focused heavily on network utilities, routing paths, packet analysis, and 
 * curl vs wget — curl is designed to transfer data to/from a server via protocols (and outputs to stdout), whereas wget is optimized for downloading files/directories recursively.
 * jq — A lightweight command-line JSON processor, highly powerful when paired with curl for filtering API data streams.
 ---
+![alt text](<Screenshot 2026-06-30 154339.png>)
+![alt text](<Screenshot 2026-06-30 154623.png>)
+![alt text](<Screenshot 2026-06-30 154732.png>)
