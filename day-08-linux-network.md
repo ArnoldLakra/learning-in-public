@@ -29,7 +29,7 @@ Day 4 focused heavily on network utilities, routing paths, packet analysis, and 
 * whois — Queries public databases to locate ownership, registration, and block allocations of domains/IPs.
 * curl vs wget — curl is designed to transfer data to/from a server via protocols (and outputs to stdout), whereas wget is optimized for downloading files/directories recursively.
 * jq — A lightweight command-line JSON processor, highly powerful when paired with curl for filtering API data streams.
----
+----
 <img width="1535" height="936" alt="Screenshot 2026-06-30 154339" src="https://github.com/user-attachments/assets/9fc69306-a1cd-428e-b5cc-751414bf351d" />
 <img width="1355" height="990" alt="Screenshot 2026-06-30 154623" src="https://github.com/user-attachments/assets/31564bd3-b7b0-4091-a87c-252016a94722" />
 <img width="1468" height="998" alt="Screenshot 2026-06-30 154732" src="https://github.com/user-attachments/assets/cd3601ce-db44-42f8-89de-923a7257f36b" />
