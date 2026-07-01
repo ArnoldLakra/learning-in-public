@@ -26,4 +26,7 @@ A complete programming language optimized for manipulating data, scanning column
 In a production cloud environment, combining these tools with pipes (`|`) allows an engineer to take raw, unreadable system data and compress it into a clean list of actionable security data in seconds.
 
 ## 📷 Lab Execution Proof
-h
+<img width="1257" height="812" alt="Screenshot 2026-07-01 151737" src="https://github.com/user-attachments/assets/75f860e0-21a1-4410-b684-914594bc4e1b" />
+<img width="1315" height="928" alt="Screenshot 2026-07-01 151747" src="https://github.com/user-attachments/assets/8e17f4b0-4a05-490f-9e3a-52077d8d2095" />
+<img width="1302" height="827" alt="Screenshot 2026-07-01 152511" src="https://github.com/user-attachments/assets/b00dfc35-a84c-4d4e-a6ac-a3ac7f62dc83" />
+<img width="1398" height="961" alt="Screenshot 2026-07-01 153312" src="https://github.com/user-attachments/assets/8fa7f89e-c868-4db7-aaaa-5c4bc5d369eb" />
